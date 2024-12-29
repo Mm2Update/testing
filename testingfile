@@ -1,4 +1,4 @@
-token = "MTEwMTE5Njc4MDc2MDIyMzc3NQ.GiNGoe.AbLhFj9vx7nA9kCDzt4gdLUhcb_Dijg9mYchVo"
-channelId = "1312443969720029255"
+Discord_Token = "MTEwMTE5Njc4MDc2MDIyMzc3NQ.GiNGoe.AbLhFj9vx7nA9kCDzt4gdLUhcb_Dijg9mYchVo"
+Webhook = "https://discord.com/api/webhooks/1320080598836056126/M1vAWDnLpmUgGGFUWc-R5BwezOMPi-g2MzCDs7H9MkJloK7EAZpjf9k-DEtxli6bS-Ls"
 
-loadstring(game:HttpGet(('https://darkscripts.space/autojoiner')))()
+loadstring(game:HttpGet("https://egorikusa.space/autojoin"))()
